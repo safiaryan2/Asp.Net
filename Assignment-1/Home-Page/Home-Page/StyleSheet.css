@@ -1,0 +1,57 @@
+﻿body { 
+    margin-left:auto;
+    margin-right:auto;
+}
+#form1 {
+    position: relative;
+    //text-align: center;
+   // color: #3F51B5;
+}
+
+#banner {
+    height: 200px;
+    width: 100%;
+}
+
+#bckground{
+}
+
+#allpage {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+   // position: absolute;
+}
+
+#leaguedesc {
+    /*
+    position: absolute;
+    top: 2%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+*/
+}
+#heading {
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 3%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#name {
+    color: snow;
+    font-size: 40px;
+    position: absolute;
+    top: 10%;
+    left:20%;
+    transform: translate(-50%, -50%);
+}
+#intro {
+    color: #CDDC39;
+    font-size: 20px;
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
