@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Match Scheduling" Language="C#" MasterPageFile="~/HomePage.master" AutoEventWireup="true" CodeFile="MatchScheduling.aspx.cs" Inherits="MatchScheduling" %>
+﻿<%@ Page Title="Match Scheduling" Language="C#" MasterPageFile="HomePage.master" AutoEventWireup="true" CodeFile="MatchScheduling.aspx.cs" Inherits="MatchScheduling" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
